@@ -1,5 +1,5 @@
 {
-    "name": "nabao/lock",
+    "name": "emmetltd/lock",
     "description": "高性能, 分布式, 并发抢占锁, 队列锁",
     "keywords": ["lock", "并发锁"],
     "license": "MIT",
@@ -10,6 +10,10 @@
             "name": "ZhaoCong",
             "qq":"1140253608",
             "email": "1140253608@qq.com"
+        },
+        {
+            "name": "LX",
+            "email": "530767256@qq.com"
         }
     ],
     "require": {
